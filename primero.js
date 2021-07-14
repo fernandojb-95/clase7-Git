@@ -1,2 +1,2 @@
-console.log('primer archivo')
+let variable1 = console.log('primer archivo')
 console.log('nuevo coment3')
